@@ -1,2 +1,5 @@
 # hellow-world
-optional repositor
+optional reposit
+Somashekar R
+computer science and enginering 
+uvce bangalore
